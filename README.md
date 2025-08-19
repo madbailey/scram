@@ -1,6 +1,6 @@
 # scram
 
-A fast, lighthearted terminal file navigator providing an intuitive two-pane interface for file exploration and preview.
+A fast, terminal file navigator providing an intuitive two-pane interface for file exploration and preview. Using opentui (a package that's  still experimental, so this will probably break at somee point)
 
 ## Features
 
