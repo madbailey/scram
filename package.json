@@ -1,7 +1,7 @@
 {
-  "name": "opeentui",
+  "name": "scram",
   "version": "1.0.0",
-  "description": "Terminal-based file navigator built with OpenTUI",
+  "description": "A fast, lighthearted terminal file navigator",
   "main": "index.ts",
   "scripts": {
     "test": "jest",

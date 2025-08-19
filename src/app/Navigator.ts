@@ -228,7 +228,7 @@ function buildUi(r: CliRenderer) {
     flexShrink: 0,
   })
   header = new TextRenderable("hdr", {
-    content: "FILE SCRAM",
+    content: "scram",
     fg: "#e5e7eb",
     bg: "transparent",
   })

@@ -1,6 +1,6 @@
-# OpenTUI File Navigator
+# scram
 
-A terminal-based file navigator built using OpenTUI, providing an intuitive two-pane interface for file exploration and preview.
+A fast, lighthearted terminal file navigator providing an intuitive two-pane interface for file exploration and preview.
 
 ## Features
 
